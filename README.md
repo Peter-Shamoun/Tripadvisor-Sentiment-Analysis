@@ -114,7 +114,8 @@ def create_model(vocab_size):
 - **Smooth Transitions**: Enhances user experience with animations.
 
 ---
-
+![Good Review](good_review.png)
+![Bad Review](bad_review.png)
 Made with 💙 by Peter Shamoun
 
 
